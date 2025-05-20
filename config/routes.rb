@@ -8,6 +8,7 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "posts#index"
+  root 'posts#index'
 end
 =======
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
