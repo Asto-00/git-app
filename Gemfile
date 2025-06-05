@@ -67,4 +67,8 @@ group :test do
   gem "selenium-webdriver"
 end
 
+<<<<<<< Updated upstream
 gem 'devise'
+=======
+gem 'pry-rails'
+>>>>>>> Stashed changes
